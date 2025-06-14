@@ -1,0 +1,12 @@
+men butun pagelerin uzerinde klik etdikde smooth scrooll asagi olaraq islemesini isdeyirem
+
+bizimle elaqe hissesini sil cunki form artiq var 
+
+mobil gorunusda menunavbar smooth acilib baglansin ve blackare islemesin scrol olmasin qaralsin biraz 
+
+form gonderilende loading seliqeli bir sey gonderilme prosesinin getdiyini bildirsin
+
+
+/proposal
+/packages
+/about
