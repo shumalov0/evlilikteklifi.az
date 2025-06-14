@@ -7,15 +7,20 @@ export function Hero() {
   return (
     <div className="relative h-screen">
       {/* Video Background */}
+
+
       <video
-        autoPlay
-        loop
-        muted
-        playsInline
-        className="absolute inset-0 w-full h-full object-cover"
-      >
-        <source src="/hero-video.mp4" type="video/mp4" />
-      </video>
+  autoPlay
+  loop
+  muted
+  playsInline
+  className="absolute inset-0 w-full h-full object-cover"
+>
+  <source
+    src="https://res.cloudinary.com/dfsvtimm8/video/upload/sowwbv2uoacnwqvforz1.mp4"
+    type="video/mp4"
+  />
+</video>
 
       {/* Overlay */}
       <div className="absolute inset-0 bg-black/50" />
