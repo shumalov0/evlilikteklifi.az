@@ -30,9 +30,10 @@ export function Hero() {
         className="absolute inset-0 w-full h-full object-cover"
       >
         <source
-          src="https://res.cloudinary.com/dfsvtimm8/video/upload/sowwbv2uoacnwqvforz1.mp4"
-          type="video/mp4"
-        />
+  src="https://res.cloudinary.com/dfsvtimm8/video/upload/q_30,vc_auto/sowwbv2uoacnwqvforz1.mp4"
+  type="video/mp4"
+/>
+
       </video>
 
       {/* Overlay */}
