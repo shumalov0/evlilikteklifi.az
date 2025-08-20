@@ -5,7 +5,7 @@ import Link from "next/link"
 export function WhatsAppButton() {
   return (
     <Link
-      href="https://wa.me/994516950327"
+      href="https://wa.me/994998131322"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-8 right-8 z-50 bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:bg-[#128C7E] transition-colors duration-300"

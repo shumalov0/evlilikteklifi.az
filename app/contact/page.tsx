@@ -91,8 +91,8 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="text-lg font-medium text-stone-800 mb-1">Telefon</h3>
-                    <p className="text-stone-600">+994 70 855 90 01</p>
-                    <p className="text-stone-600">+994 51 695 03 27</p>
+                    <p className="text-stone-600">+994 99 813 13 22</p>
+                    <p className="text-stone-600">+994 70 241 00 13</p>
                   </div>
                 </div>
 
@@ -174,7 +174,7 @@ export default function ContactPage() {
                       </svg>
                     </a>
                     <a
-                      href="https://wa.me/994516950327"
+                      href="https://wa.me/994998131322"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-stone-600 hover:text-gold-400 transition-colors"
