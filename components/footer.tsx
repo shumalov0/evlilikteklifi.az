@@ -90,7 +90,7 @@ export function Footer() {
             <ul className="space-y-2">
               <li className="text-stone-400">
                 <a href="tel:+994501234567" className="hover:text-white transition-colors">
-                  +994 51 695 03 27
+                  +994 99 813 13 22
                 </a>
               </li>
               <li className="text-stone-400">

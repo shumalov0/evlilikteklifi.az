@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
+import { MessageCircle } from "lucide-react";
 
 export function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
