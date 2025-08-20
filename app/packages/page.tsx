@@ -48,7 +48,7 @@ const packages = [
   {
     id: 3,
     name: "İldönümü və Ad Günü Sürprizi",
-    price: "200 AZN",
+    price: "300 AZN",
     description: "Dəniz Kənarı",
     features: [
       "Ad günü və ya münasibətə uyğun dekor",
@@ -94,13 +94,13 @@ const additionalServices = [
   {
     name: "Skripka",
     description: "Canlı skripka musiqisi ilə romantik atmosfer",
-    price: "40 AZN",
+    price: "50 AZN",
     icon: "🎻"
   },
   {
     name: "Salyut Fişəng",
     description: "Əlavə fişəng effekti",
-    price: "100 AZN",
+    price: "80 AZN",
     icon: "✨"
   }
 ]
